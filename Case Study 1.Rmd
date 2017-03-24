@@ -119,6 +119,6 @@ QuintileTable <-table(GDPEDNONA$quintile,GDPEDNONA$Income.Group)
 QuintileTable
 ```
 #There are 5 countries in the 1st Quintile for GDP that are in the Lower middle Income class
-
+ 
 
 
